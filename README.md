@@ -15,7 +15,5 @@ It’s a great way to reveal products that the customer might otherwise not disc
 
 ## Data Source
 
-E- commerce purchase history from home appliances and electronics online store. 
-This file contains purchase data from Jan 2020 to July 2020 with 2.6M purchased products. 
-
+E- commerce purchase history from home appliances and electronics online store with 2.6M purchased products. 
 https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store?select=kz.csv
