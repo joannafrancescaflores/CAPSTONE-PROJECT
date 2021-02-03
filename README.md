@@ -1,6 +1,6 @@
 # Product Recommendation System for E-commerce
 
-### Problem Statement
+### Product Recommendation System for E-commerce
 To increase the basket size and average order value for customers who only have 1 item in the cart.
 
 ### Summary
